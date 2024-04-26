@@ -1,0 +1,14 @@
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\bin\Debug\net8.0\AirTekSpeedyAir.exe
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\bin\Debug\net8.0\AirTekSpeedyAir.deps.json
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\bin\Debug\net8.0\AirTekSpeedyAir.runtimeconfig.json
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\bin\Debug\net8.0\AirTekSpeedyAir.dll
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\bin\Debug\net8.0\AirTekSpeedyAir.pdb
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.AssemblyInfoInputs.cache
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.AssemblyInfo.cs
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.csproj.CoreCompileInputs.cache
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.dll
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\refint\AirTekSpeedyAir.dll
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.pdb
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\AirTekSpeedyAir.genruntimeconfig.cache
+C:\Users\hadil\source\repos\AirTekSpeedyAir\AirTekSpeedyAir\obj\Debug\net8.0\ref\AirTekSpeedyAir.dll
